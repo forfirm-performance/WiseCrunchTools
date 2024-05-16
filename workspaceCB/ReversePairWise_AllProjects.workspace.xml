@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="../source/calcolaCopertura/calcolaCopertura.cbp" />
+		<Project filename="../source/calcolaCoperturaSlow/calcolaCoperturaSlow.cbp" />
+		<Project filename="../source/Combinazioni_n_k/Combinazioni_n_k.cbp" />
+		<Project filename="../source/contrLimWise/contrLimWise.cbp" />
+		<Project filename="../source/count_line/count_line.cbp" />
+		<Project filename="../source/creaFileProdCart/creaFileProdCart.cbp" />
+		<Project filename="../source/creaStringa/creaStringa.cbp" />
+		<Project filename="../source/generaTestSet/generaTestSet.cbp" />
+		<Project filename="../source/generaTestSetSlow/generaTestSetSlow.cbp" />
+		<Project filename="../source/ProdCart/ProdCart.cbp" />
+		<Project filename="../source/reduceNple/reduceNple.cbp" />
+		<Project filename="../source/uniqueRowFile/uniqueRowFile.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
