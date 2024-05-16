@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1392191326 source:c:\users\dberta\documents\software test\tools\reversepairwise\source\uniquerowfile\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<algorithm>
+	<iterator>
+
